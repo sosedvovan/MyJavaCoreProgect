@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a089ddb3-54ed-4d5f-92ff-caea16ae1601" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="217qBZjYn3h3UxkS12iAucgOPVy" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lambdas.sample4" />
+      <recent name="lambdas.sample3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MyJavaCore\MyJavaCoreProgect" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="InterfaceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dopMaterial.interfaseTest.InterfaceTest" />
+      <module name="MyJavaCoreProgect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dopMaterial.interfaseTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaCore34.lambdas.sample3.Main" />
+      <module name="MyJavaCoreProgect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaCore34.lambdas.sample3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaCore34.lambdas.sample6.Main" />
+      <module name="MyJavaCoreProgect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaCore34.lambdas.sample6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dopMaterial.concarencyTest.threadLocal.Main" />
+      <module name="MyJavaCoreProgect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dopMaterial.concarencyTest.threadLocal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WriteObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dopMaterial.IO_File.sample7_Alishev.searization.WriteObject" />
+      <module name="MyJavaCoreProgect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dopMaterial.IO_File.sample7_Alishev.searization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.InterfaceTest" />
+        <item itemvalue="Application.WriteObject" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a089ddb3-54ed-4d5f-92ff-caea16ae1601" name="Default Changelist" comment="" />
+      <created>1637302338463</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637302338463</updated>
+      <workItem from="1637302342258" duration="37248000" />
+      <workItem from="1637521064213" duration="57818000" />
+      <workItem from="1638017867208" duration="46012000" />
+      <workItem from="1638296072621" duration="3793000" />
+      <workItem from="1638345240606" duration="145643000" />
+      <workItem from="1639843356254" duration="14032000" />
+      <workItem from="1639928535128" duration="8658000" />
+      <workItem from="1641281889441" duration="8415000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
